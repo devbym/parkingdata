@@ -38,9 +38,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-#for k,v in b.items():
-#    for x,y in v.items():
-#        if 'operator' in x:
-#            print(y)
